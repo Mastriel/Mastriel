@@ -1,6 +1,14 @@
-programming
+# hello! 🌼
+i'm **Zac**!
 
-<!---
-Mastriel/Mastriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i'm currently studying CS at NMSU.
+
+i've been programming for 5 years, and i've been writing software professionally for 1 year.  
+
+currently employed @ [SnapStrat](https://www.snapstrat.com/).
+
+i work with:
+- 🍃 **`    web    `** → JavaScript, TypeScript, HTML, CSS, React, Svelte, TailwindCSS
+- 🌳 **` low-level `** → Rust, C, C++
+- 🌿 **`  gamedev  `** → C#, GDScript
+- ☕️ **`    jvm    `** → Kotlin, Java
