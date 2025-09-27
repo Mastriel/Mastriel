@@ -8,7 +8,7 @@ i've been programming for 5 years, and i've been writing software professionally
 currently employed @ [SnapStrat](https://www.snapstrat.com/).
 
 i work with:
-- 🍃 **`    web    `** → JavaScript, TypeScript, HTML, CSS, React, Svelte, TailwindCSS
-- 🌳 **` low-level `** → Rust, C, C++
-- 🌿 **`  gamedev  `** → C#, GDScript
-- ☕️ **`    jvm    `** → Kotlin, Java
+- 🍃 **`​​ ​ ​ ​ ​web ​ ​ ​ ​`** → JavaScript, TypeScript, HTML, CSS, React, Svelte, TailwindCSS
+- 🌳 **`​ low-level​ `** → Rust, C, C++
+- 🌿 **`​ ​ gamedev ​ ​`** → C#, GDScript
+- ☕️ **`​ ​ ​ ​ ​jvm​ ​ ​ ​ ​`** → Kotlin, Java
