@@ -11,4 +11,4 @@ i work with:
 - 🍃 **`​​ ​ ​ ​ ​web ​ ​ ​ ​`** → JavaScript, TypeScript, HTML, CSS, React, Svelte, TailwindCSS
 - 🌳 **`​ low-level​ `** → Rust, C, C++
 - 🌿 **`​ ​ gamedev ​ ​`** → C#, GDScript
-- ☕️ **`​ ​ ​ ​ ​jvm​ ​ ​ ​ ​`** → Kotlin, Java
+- 🪷 **`​ ​ ​ ​other​ ​ ​ ​`** → Kotlin, Java, Lua, Python, MongoDB, SQL, GraphQL, Docker
